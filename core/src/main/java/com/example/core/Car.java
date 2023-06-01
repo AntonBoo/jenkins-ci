@@ -3,6 +3,6 @@ package com.example.core;
 public class Car {
 
     public void drive() {
-        System.out.println("driving to les Ulis...github jenkins22");
+        System.out.println("driving to Gallieni...github jenkins22");
     }
 }
